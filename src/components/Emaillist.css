@@ -1,0 +1,22 @@
+.emillist{
+    flex: 1;
+    overflow: scroll;
+}
+.emaillist__setting{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    background: white;
+    border-bottom: 1px solid whitesmoke;
+    z-index: 999;
+    padding-right: 10px;
+}
+.emailSection{
+    position: sticky;
+    top: 0;
+    display: flex;
+    border: 1px solid whitesmoke;
+    background: white;
+    z-index: 999;
+}
